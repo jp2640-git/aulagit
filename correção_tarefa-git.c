@@ -5,11 +5,10 @@ PROFESSOR: VINICIUS FIGUEIREDO
 AULA3: EXERCÍCIO - IMPLEMENTAÇÃO DO ALGORITMO DE VALIDAÇÃO DE CPF - COM ERRO
 DATA: 12/03/2026
 aluno: joão pedro silva barbosa
-
 */
 
 
-    if (resto2 < 1) {
+    if (resto2 < 2) {
         dv2 = 0;
     } else {
         dv2 = 11 - resto2;
